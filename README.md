@@ -1,2 +1,1 @@
-# portofolio
-ini adalah website portofolio saya
+Repo ini adalah web portofolio pertama saya, namanya baru kenal pemrogaman saya membangun aplikasi website ini menggunakanan framework bootstrap. Tujuan saya membuat aplikasi ini untuk test Magang saat kelas 2 SMK di SMK PGRI 3 Malang yang akan berangkat ke HyperData Solusindo Mandiri di Tagerang
